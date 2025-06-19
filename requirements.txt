@@ -1,0 +1,5 @@
+faster-whisper
+llama-cpp-python
+langchain
+pyttsx3
+gradio
