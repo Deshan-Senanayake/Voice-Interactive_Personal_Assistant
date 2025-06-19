@@ -1,5 +1,5 @@
-faster-whisper
-llama-cpp-python
-langchain
-pyttsx3
-gradio
+pyttsx3~=2.98
+
+requests~=2.32.4
+sounddevice~=0.5.2
+scipy~=1.15.3
