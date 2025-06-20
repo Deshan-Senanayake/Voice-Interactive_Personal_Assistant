@@ -92,6 +92,7 @@ python app.py
 
 ## 📸 Screenshot
 
+![image](https://github.com/user-attachments/assets/41ffa88b-c456-48c5-ac10-5ceca4efb9a3)
 
 ---
 
