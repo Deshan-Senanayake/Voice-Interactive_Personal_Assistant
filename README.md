@@ -96,6 +96,14 @@ python app.py
 
 ---
 
+---
+
+## Issues
+
+Feel free to add any issues you find.
+
+---
+
 ## 📝 License
 
 MIT License. Use freely for personal, academic, or demo purposes.
